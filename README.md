@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @atv7
-- 👀 I’m interested in python development
-- 🌱 I’m currently learning features of python, I take OOP courses, I make projects for myself and my studies at the university
-- 
+# Привет, меня зовут [Артём](https://t.me/tetero_O)) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Я учусь в университете на направлении Компьютерная безопасность и хочу стать backend разработчиком:)
+🌱 Я изучаю JavaScript, TypeScript, Node.js. 
 
 <!---
 atv7/atv7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
